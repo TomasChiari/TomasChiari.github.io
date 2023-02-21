@@ -3,6 +3,7 @@ html body {
     height: 100%;
     margin: 0;
     position: absolute;
+    background-color: rgba(117, 117, 117, 0.5);
 }
 
 .card {
@@ -16,6 +17,7 @@ html body {
     /* border: 5px solid black; */
     border-radius: 15px;
     box-shadow: 0 0 15px black;
+    background-color: white;
 
     display: flex;
     flex-flow: column;
